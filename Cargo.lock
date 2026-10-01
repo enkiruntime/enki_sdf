@@ -250,9 +250,9 @@ checksum = "252afb9ae5eaa683babdc6a068b3f5726eb19e05070c731f9b2a23a7c3e8ed34"
 
 [[package]]
 name = "enki-anu"
-version = "0.1.0"
+version = "0.2.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6c0e83145d29c320535f272fa452ff8386db845a4f0e58c078d5a46da8c7c47c"
+checksum = "4cb9954048af594261d6bd288615a8b1a2540e399476022c926534d0543fce56"
 dependencies = [
  "anyhow",
  "ash",
@@ -265,9 +265,9 @@ dependencies = [
 
 [[package]]
 name = "enki-apsu"
-version = "0.1.0"
+version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0362da601f824ff150c4261ea147cf65e11a5e2edabdcaa6db13ac676069cf46"
+checksum = "0340d76386720afba03c2b2c791c21fa7677e65cc5ae067483548bd9353ad353"
 dependencies = [
  "anyhow",
  "ash",
@@ -276,9 +276,9 @@ dependencies = [
 
 [[package]]
 name = "enki-gpu"
-version = "0.1.0"
+version = "0.2.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f74d2ced8187a2225bd7de85d392fdd83c249c6087bc73c6001eddfee4bc51f3"
+checksum = "bdcfe2f31a16e210d28ccc271e913f6c656e5676cdebb8e021cb9a3bb977d035"
 dependencies = [
  "anyhow",
  "ash",
@@ -293,9 +293,9 @@ dependencies = [
 
 [[package]]
 name = "enki-parsu"
-version = "0.1.1"
+version = "0.2.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "750f05fe487b9bd05120186f780238b3384acf1c209aa4fc00032abf4609df94"
+checksum = "40f1488dd52e8cc1c0a7669f1d9205d364624f291402776c8e03e576fb243cc6"
 dependencies = [
  "anyhow",
  "ash",
@@ -310,9 +310,9 @@ dependencies = [
 
 [[package]]
 name = "enki-utu"
-version = "0.1.0"
+version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "1778e284025c793afec8b964aeab0bcbc3b260701d90a587c2a417415ab1ac1f"
+checksum = "9a585c8d6d6dcf70c87e45203ab1a9b41b4156feeb341803ba07d70720329e5f"
 dependencies = [
  "anyhow",
  "ash",
@@ -322,9 +322,9 @@ dependencies = [
 
 [[package]]
 name = "enki_macros"
-version = "0.1.0"
+version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e5639c3b72b0b56d90ebf1b718e44333328abe9eb7d22e28443af6a4b673e1bf"
+checksum = "1f90ed6251ae0c989633f09c7b26c4bfa329207bdb2f4851a1369ce5f9171617"
 dependencies = [
  "quote",
  "syn 2.0.119",

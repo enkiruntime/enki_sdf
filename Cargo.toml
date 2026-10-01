@@ -7,7 +7,7 @@ license = "MIT OR Apache-2.0"
 description = "Real-time 3D SDF Raymarching showcase for the Enki GPU compute platform"
 
 [dependencies]
-enki-gpu = "0.1"
+enki-gpu = "0.2.2"
 glam = "0.29"
 glfw = "0.59"
 rayon = "1.10"
