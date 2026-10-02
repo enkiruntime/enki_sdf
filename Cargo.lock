@@ -250,9 +250,9 @@ checksum = "252afb9ae5eaa683babdc6a068b3f5726eb19e05070c731f9b2a23a7c3e8ed34"
 
 [[package]]
 name = "enki-anu"
-version = "0.2.2"
+version = "0.2.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4cb9954048af594261d6bd288615a8b1a2540e399476022c926534d0543fce56"
+checksum = "5c28a0f34f0eaf7a84106720bc64667b74260c16878bb0c923ba1909da677581"
 dependencies = [
  "anyhow",
  "ash",
@@ -276,9 +276,9 @@ dependencies = [
 
 [[package]]
 name = "enki-gpu"
-version = "0.2.2"
+version = "0.2.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "bdcfe2f31a16e210d28ccc271e913f6c656e5676cdebb8e021cb9a3bb977d035"
+checksum = "055c26a52cae28c20090e429166056537a5642055f9a58913ffcbd85c0ce8fe9"
 dependencies = [
  "anyhow",
  "ash",
@@ -293,9 +293,9 @@ dependencies = [
 
 [[package]]
 name = "enki-parsu"
-version = "0.2.2"
+version = "0.2.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "40f1488dd52e8cc1c0a7669f1d9205d364624f291402776c8e03e576fb243cc6"
+checksum = "5aa3cd3353e3754e63447226169c7c1bd021ed82e5f4dcc1540d95fcd8d92aed"
 dependencies = [
  "anyhow",
  "ash",
